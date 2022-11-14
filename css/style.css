@@ -76,7 +76,7 @@
   margin-left: 30%;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-color: var(--red);
+  background-color: var(--success);
   border-radius: 10px;
   box-shadow: 1px 1px 1px 1px var(--gray);
 }
